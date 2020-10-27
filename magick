@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /squashfs-root/AppRun "${0##*/}" "$@"
